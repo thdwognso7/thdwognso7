@@ -34,3 +34,5 @@ git push -u origin main
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 ... (이하 생략)
+
+<!-- Deployment Trigger: 2026-04-05 -->
